@@ -26,5 +26,5 @@ Para este desafio a ONE nos disponibilizou um modelo base no Figma, no qual fico
 | <img src="https://user-images.githubusercontent.com/42475699/183266602-eca6d5cd-2cfd-4c77-aa02-326f4df0d2a3.png" alt="modelo disponibilizado" width="500px"> | <img src="https://github.com/Isabellabarroos/primeiro-challenge-alura/blob/main/img/imagem-final.PNG?raw=true" alt="final" width="500px"> |
 
 ---
-Criado com por: 
-[ img src="https://avatars.githubusercontent.com/u/81197504?v=4" width=115><br><sub>Isabella Barros</sub>](https://github.com/Isabellabarroos)
+Criado com por:
+[<img src="https://avatars.githubusercontent.com/u/81197504?v=4" width=115><br><sub>Isabella Barros</sub>](https://github.com/Isabellabarroos)
